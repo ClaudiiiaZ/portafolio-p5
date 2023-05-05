@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: larger;
+
+    text-align: center;
+    background-color: #22223b;
+    padding: 3%;
+}
+
+#claudia {
+    width: 12em;
+    height: 15em;
+    border-radius: 50%;
+}
+
+h1 {
+    color: white;
+    margin-top: -8%;
+}
+
+p {
+    color: white;
+    font-family: sans-serif;
+}
+
+img {
+    width: 12em;
+    height: 15em;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    border-radius: 10%;
+    margin-left: auto;
+
+
+}
+
+.navbar {
+    background-color: #e7c6ff;
+}
+
+.portafolio {
+    background-color: #22223b;
+    margin: 10%;
+
+}
+
+
+.contacto {
+    background-color: #f2e9e4;
+    margin: 5%;
+    color: black;
+    padding: 3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    color: black;
+    margin: auto;
+}
+
+footer {
+    background-color: #be95c2;
+    text-align: start;
+    justify-content: right;
+}
+
+h2 {
+    color: white;
+    margin-top: 10%;
+}
+.icon { 
+    margin-block-end: auto;
+    margin-right: 30px;
+}
